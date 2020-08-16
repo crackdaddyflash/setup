@@ -1,0 +1,25 @@
+[/]
+appicon-margin=1
+appicon-padding=4
+available-monitors=[2, 0, 1]
+hotkeys-overlay-combo='TEMPORARILY'
+leftbox-padding=0
+leftbox-size=0
+panel-element-positions='{"0":[{"element":"showAppsButton","visible":true,"position":"stackedTL"},{"element":"activitiesButton","visible":false,"position":"stackedTL"},{"element":"leftBox","visible":true,"position":"stackedTL"},{"element":"taskbar","visible":true,"position":"stackedTL"},{"element":"centerBox","visible":true,"position":"stackedBR"},{"element":"rightBox","visible":true,"position":"stackedBR"},{"element":"systemMenu","visible":true,"position":"stackedBR"},{"element":"dateMenu","visible":true,"position":"stackedBR"},{"element":"desktopButton","visible":true,"position":"stackedBR"}],"1":[{"element":"showAppsButton","visible":true,"position":"stackedTL"},{"element":"activitiesButton","visible":false,"position":"stackedTL"},{"element":"leftBox","visible":true,"position":"stackedTL"},{"element":"taskbar","visible":true,"position":"stackedTL"},{"element":"centerBox","visible":true,"position":"stackedBR"},{"element":"rightBox","visible":true,"position":"stackedBR"},{"element":"systemMenu","visible":true,"position":"stackedBR"},{"element":"dateMenu","visible":true,"position":"stackedBR"},{"element":"desktopButton","visible":true,"position":"stackedBR"}],"2":[{"element":"showAppsButton","visible":true,"position":"stackedTL"},{"element":"activitiesButton","visible":false,"position":"stackedTL"},{"element":"leftBox","visible":true,"position":"stackedTL"},{"element":"taskbar","visible":true,"position":"stackedTL"},{"element":"centerBox","visible":true,"position":"stackedBR"},{"element":"rightBox","visible":true,"position":"stackedBR"},{"element":"systemMenu","visible":true,"position":"stackedBR"},{"element":"dateMenu","visible":true,"position":"stackedBR"},{"element":"desktopButton","visible":true,"position":"stackedBR"}]}'
+panel-size=32
+preview-middle-click-close=false
+primary-monitor=2
+scroll-icon-action='NOTHING'
+scroll-panel-action='NOTHING'
+show-show-apps-button=false
+status-icon-padding=3
+trans-bg-color='#2e3436'
+trans-panel-opacity=0.95000000000000007
+trans-use-custom-bg=true
+trans-use-custom-opacity=true
+tray-padding=3
+tray-size=0
+window-preview-fixed-x=false
+window-preview-fixed-y=false
+window-preview-size=150
+window-preview-title-font-color='#dddddd'
